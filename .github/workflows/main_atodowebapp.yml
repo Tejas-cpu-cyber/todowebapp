@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ATodowebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BCBC7845F23490D9C2E8A1D51DD257D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D41A4187FA3246F88F67E67C18EEC07F }}
